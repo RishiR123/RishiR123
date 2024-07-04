@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi R</h1>
 <h3 align="center">A passionate Machine Learning Developer from India</h3>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/QL8RF2CdcuK1YzkWqm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/digitalpratik-reaction-digital-pratik-QL8RF2CdcuK1YzkWqm">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishir123&label=Profile%20views&color=0e75b6&style=flat" alt="rishir123" /> </p>
 
