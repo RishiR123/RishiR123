@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Prediction Systems**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA and LLM**
 
 - 👯 I’m looking to collaborate on **ML / DL**
 
