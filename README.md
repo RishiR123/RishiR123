@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://rishi.nectual.com](https://rishi.nectual.com)
 
-- 📝 I regularly write articles on [https://rishi.nectual/blogs.com](https://rishi.nectual/blogs.com)
-
 - 💬 Ask me about **Python , ML Algorithms**
 
 - 📫 How to reach me **rishiininternetgmail.com**
