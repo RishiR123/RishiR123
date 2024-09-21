@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishi R</h1>
+<h1 align="center">Hi 👋, I'm Rishi</h1>
 <h3 align="center">A passionate Machine Learning Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
