@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://rishi.nectual/blogs.com](https://rishi.nectual/blogs.com)
 
-- 💬 Ask me about **Python, R , ML Algorithms**
+- 💬 Ask me about **Python , ML Algorithms**
 
 - 📫 How to reach me **rishiininternetgmail.com**
 
